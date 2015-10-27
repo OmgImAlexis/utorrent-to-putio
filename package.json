@@ -1,0 +1,17 @@
+{
+  "name": "utorrent-to-putio",
+  "version": "1.0.0",
+  "description": "Send torrents from utorrent to putio",
+  "main": "app.js",
+  "dependencies": {
+    "nconf": "^0.8.2",
+    "put.io-v2": "0.0.2",
+    "utorrent-api": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
